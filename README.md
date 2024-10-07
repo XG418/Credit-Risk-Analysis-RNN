@@ -1,1 +1,1 @@
-# Credit-Risk-Analysis-by-LendingClub
+# Credit-Risk-Analysis-RNN
